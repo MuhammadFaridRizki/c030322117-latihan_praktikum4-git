@@ -1,0 +1,4 @@
+Proses Upload Telah DIlakukan
+
+$file_user C:\\Windows\Temp\php.A618.tmp
+$tujuan: c:\upload\upload coba.txt
